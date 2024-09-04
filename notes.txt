@@ -1,0 +1,7 @@
+npm create vite@latest
+cd first-react-app
+  npm install
+  npm run dev
+To use an exported component, you need to import it in the destination file using import syntax
+JSX allows the creation of dynamic and interactive UI components
+Using {}
